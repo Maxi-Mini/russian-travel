@@ -1,3 +1,6 @@
 .intro__list_item {
-    margin: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
 }
