@@ -5,6 +5,12 @@
     margin-left: 18px;
     color:#FFFFFF;
     line-height: 28px;
+    transition: opacity .2s linear;
+    opacity: 1;
+}
+
+.header__lang-ling:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
