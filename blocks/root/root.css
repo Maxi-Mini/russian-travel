@@ -1,0 +1,15 @@
+.root {
+    background-color: #2A2C2F;
+    color: #FFFFFF;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    width: 100%;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+}

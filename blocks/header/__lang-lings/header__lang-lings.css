@@ -1,0 +1,5 @@
+.header__lang-lings {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+}
