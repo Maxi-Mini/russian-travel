@@ -20,7 +20,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
-@import url(../blocks/intro/__list/_item/intro__list_item.css);
+@import url(../blocks/intro/__list/_item/);
 @import url(../blocks/intro/__list/_item/item_number/intro__list_item_number.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
